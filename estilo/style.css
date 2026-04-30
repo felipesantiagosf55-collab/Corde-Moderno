@@ -81,7 +81,7 @@ section#img02 {
     background-image: url('../imagens/passaro.jpg');
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 650px) {
     /*diminui o tamanho do texto para telas maiores*/
     header > h1 {
         font-size: 5vw;
